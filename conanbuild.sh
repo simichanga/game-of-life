@@ -1,0 +1,1 @@
+. "/home/simi/Dev/game-of-life/conanbuildenv-release-x86_64.sh"

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/runthisdummy.dir/src/main.cpp.o -o runthisdummy  /usr/lib/libsfml-graphics.so.2.5.1 /usr/lib/libsfml-window.so.2.5.1 /usr/lib/libsfml-system.so.2.5.1 
